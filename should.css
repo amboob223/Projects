@@ -1,0 +1,36 @@
+*{
+    padding:0%;
+    margin:0px;
+}
+
+body{
+    background: rgb(48, 46, 44);
+}
+
+header>h1{
+    text-align:center;
+    background-color: white;
+    color:black;
+    font-family: Asap sans-serif;
+
+}
+
+.question{
+    text-align: center;
+    margin:20px;
+    padding: 0px;
+    border:20px;
+    border-color:grey;
+    
+}
+
+.button{
+    text-align: center;
+}
+
+.ann{
+    text-align: center;
+    font-family: Asap sans-serif;
+    font-size: 46px;
+    
+}
